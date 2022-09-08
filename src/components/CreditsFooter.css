@@ -1,0 +1,30 @@
+.credits-footer {
+
+    color: white;
+    bottom: 0 !important;
+    padding-top: 10px !important;
+    padding-bottom: 8px !important ;
+    margin:0%
+    
+}
+.footer-copywright {
+    text-align: center;
+}
+.footer-copywright h3{
+    font-size: 1rem;
+    display: inline;
+}
+.credits-right{
+    text-align: right;
+}
+@media screen and (max-width: 640px){
+    .footer-copywright {
+        text-align: center !important;
+    }
+    .footer-copywright h3{
+        font-size: 1rem;
+    }
+}
+
+
+  
