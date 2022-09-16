@@ -1,6 +1,6 @@
 import React from 'react';
 import './Background.css';
-import IntroImg from '../assests/Home/bg.jpg';
+import IntroImg from '../assests/Home/background.jpg';
 // import ProfileImg from '../assests/Home/profilepic.jpg';
 
 import Typewriter from "typewriter-effect";
